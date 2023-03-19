@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Discord bot changing nickname to github nickname </h1>
+<h1> Change discord nickname with the format ${discord_name} @${github_name} </h1>
 </div>
 
 ## Execution
