@@ -55,10 +55,10 @@ botClient.on('guildMemberAdd', async (member) => {
 
 /**
  * 
- * Funcion que nos comprueba si es un enlace de github o un nombre normal
- * tambien comprueba que el nombre no tenga caracteres invalidos
+ * Function that checks if it is a github link or a normal name
+ * also checks that the name does not have invalid characters
  * 
- * @param {*} name mensaje que lee del usuario
+ * @param {*} name message
  * @returns username
  */
 function getGithubName(name) {
